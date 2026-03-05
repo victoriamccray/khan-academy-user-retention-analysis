@@ -38,7 +38,7 @@ This project examines user engagement patterns in the first month and identifies
 ## Files
 
 - `User_Behavior_and_3_Month_Retention_Analysis.ipynb` - Complete analysis notebook
-- `images/` - Key visualizations from the analysis
+- `images/` - visualizations from the analysis
 
 ## Contact
 
@@ -46,4 +46,3 @@ Victoria McCray | [LinkedIn](https://linkedin.com/in/victoria-mccray-99399514a) 
 
 ---
 
-*Note: This was a take-home assignment for a data science role. Data provided by Khan Academy for evaluation purposes.*
