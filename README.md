@@ -45,4 +45,4 @@ This project examines user engagement patterns in the first month and identifies
 Victoria McCray | [LinkedIn](https://linkedin.com/in/victoria-mccray-99399514a) | [Website](https://victoriamccray.github.io/)
 
 ---
-
+*Analysis of user retention patterns using educational platform data.*
